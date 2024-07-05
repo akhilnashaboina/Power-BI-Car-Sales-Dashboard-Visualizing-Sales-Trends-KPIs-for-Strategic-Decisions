@@ -54,35 +54,35 @@ To create a dynamic, interactive dashboard that visualizes critical KPIs related
 
 ## Visualizations:
 
-### YTD Sales Weekly Trend:
+1. ### YTD Sales Weekly Trend:
 
 * A line chart displaying weekly YTD sales trends.
 
-### YTD Total Sales by Body Style:
+2. ### YTD Total Sales by Body Style:
 
 * A pie chart showing the distribution of YTD total sales across different car body styles.
 
 * SUV leads with $99.89M (26.92%).
 
-### YTD Total Sales by Color:
+3. ### YTD Total Sales by Color:
 
 * A pie chart presenting the contribution of various car colors to the YTD total sales.
 
 * Pale white color has the highest sales with $174.53M (47.02%).
 
-### YTD Cars Sold by Dealer Region:
+4. ### YTD Cars Sold by Dealer Region:
 
 * A map chart visualizing YTD sales distribution across dealer regions.
 
 * Austin leads with 2,296 cars sold.
 
-### Company-Wise Sales Trend:
+5. ### Company-Wise Sales Trend:
 
 * A tabular grid displaying sales trends for each company.
 
 * Chevrolet has the highest cars sold YTD with 1,043 units and total sales of $27.1M (7.30%).
 
-### Details Grid:
+6. ### Details Grid:
 
 * A detailed grid with all relevant information for each car sale, including model, body style, color, sales amount, dealer region, date, and more.
 
