@@ -2,15 +2,15 @@
 
 Designed and developed a dynamic and interactive Car Sales Dashboard using Power BI. This project aims to provide comprehensive insights into car sales, helping dealerships track performance and make data-driven decisions.
 
-## Objective:
+### Objective:
 To create a dynamic, interactive dashboard that visualizes critical KPIs related to car sales, offering real-time insights and supporting data-driven decision-making.
 
-## Tools and Technologies Used:
+### Tools and Technologies Used:
 * **Power BI:** For dashboard development and data visualization.
 
 * **Excel:** For data extraction, transformation, and loading (ETL).
 
-## Project Highlights:
+### Project Highlights:
 ### Data Integration and Processing:
 
 * Utilized Excel for seamless data extraction, transformation, and loading (ETL), improving data accuracy and reducing processing time by 30%.
@@ -19,7 +19,7 @@ To create a dynamic, interactive dashboard that visualizes critical KPIs related
 
 * Implemented DAX functions for advanced calculations and measures.
 
-## Key Performance Indicators (KPIs):
+### Key Performance Indicators (KPIs):
 ### Sales Overview:
 
 * Year-to-Date (YTD) Total Sales: $371.2M
