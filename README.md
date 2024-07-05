@@ -42,9 +42,7 @@ Difference between YTD Average Price and PTYD Average Price
 
 ### Cars Sold Metrics:
 
-YTD Cars Sold: 13.3K
-
-19.73% increase in sales compared to PTYD: 2.62K
+YTD Cars Sold: 13.3K, 19.73% increase in sales compared to PTYD: 2.62K
 
 MTD Cars Sold
 
