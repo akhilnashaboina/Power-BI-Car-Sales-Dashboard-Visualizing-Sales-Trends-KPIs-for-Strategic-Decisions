@@ -84,3 +84,32 @@ Chevrolet has the highest cars sold YTD with 1,043 units and total sales of $27.
 
 A detailed grid with all relevant information for each car sale, including model, body style, color, sales amount, dealer region, date, and more.
 
+### Results and Insights:
+
+Developed a user-friendly interface with intuitive navigation for exploring car sales data.
+
+Visualizations such as line charts, bar charts, pie charts, and maps represent key performance indicators (KPIs) like total sales, sales by region, and sales by car model.
+
+Enhanced understanding of sales trends, average prices, and geographical distribution, aiding in better decision-making.
+
+Improved sales tracking and performance evaluation through detailed and comprehensive insights.
+
+Found YTD Total Sales to be $371.2M, a 23.59% increase compared to PTYD ($70.8M).
+
+Identified YTD Average Price as $28.0K, with a -0.79% decrease compared to PTYD ($0.22K).
+
+Determined YTD Cars Sold as 13.3K, with a 19.73% increase compared to PTYD (2.62K).
+
+### Skills and Functionalities:
+
+Data Integration and ETL
+
+Data Cleaning and Preparation
+
+Data Modeling and DAX Functions
+
+Power Query and Power BI Visualization
+
+KPI Creation and Analysis
+
+Dashboard Design and User Interface Development
