@@ -13,9 +13,11 @@ To create a dynamic, interactive dashboard that visualizes critical KPIs related
 ## Project Highlights:
 ### Data Integration and Processing:
 
-Utilized Excel for seamless data extraction, transformation, and loading (ETL), improving data accuracy and reducing processing time by 30%.
-Cleaned and prepared data using Power Query.
-Implemented DAX functions for advanced calculations and measures.
+* Utilized Excel for seamless data extraction, transformation, and loading (ETL), improving data accuracy and reducing processing time by 30%.
+
+* Cleaned and prepared data using Power Query.
+
+* Implemented DAX functions for advanced calculations and measures.
 
 ## Key Performance Indicators (KPIs):
 ### Sales Overview:
