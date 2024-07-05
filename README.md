@@ -70,19 +70,19 @@ To create a dynamic, interactive dashboard that visualizes critical KPIs related
 
 * Pale white color has the highest sales with $174.53M (47.02%).
 
-4. ### YTD Cars Sold by Dealer Region:
+* ### YTD Cars Sold by Dealer Region:
 
 * A map chart visualizing YTD sales distribution across dealer regions.
 
 * Austin leads with 2,296 cars sold.
 
-5. ### Company-Wise Sales Trend:
+* ### Company-Wise Sales Trend:
 
 * A tabular grid displaying sales trends for each company.
 
 * Chevrolet has the highest cars sold YTD with 1,043 units and total sales of $27.1M (7.30%).
 
-6. ### Details Grid:
+* ### Details Grid:
 
 * A detailed grid with all relevant information for each car sale, including model, body style, color, sales amount, dealer region, date, and more.
 
