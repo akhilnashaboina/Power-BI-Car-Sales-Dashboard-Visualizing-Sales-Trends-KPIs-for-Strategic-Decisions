@@ -6,9 +6,9 @@ Designed and developed a dynamic and interactive Car Sales Dashboard using Power
 To create a dynamic, interactive dashboard that visualizes critical KPIs related to car sales, offering real-time insights and supporting data-driven decision-making.
 
 ## Tools and Technologies Used:
-**Power BI:** For dashboard development and data visualization.
+* **Power BI:** For dashboard development and data visualization.
 
-**Excel:** For data extraction, transformation, and loading (ETL).
+* **Excel:** For data extraction, transformation, and loading (ETL).
 
 ## Project Highlights:
 ### Data Integration and Processing:
@@ -22,96 +22,96 @@ To create a dynamic, interactive dashboard that visualizes critical KPIs related
 ## Key Performance Indicators (KPIs):
 ### Sales Overview:
 
-Year-to-Date (YTD) Total Sales: $371.2M
+* Year-to-Date (YTD) Total Sales: $371.2M
 
-23.59% increase in sales compared to Previous Year-to-Date (PTYD): $70.8M
+* 23.59% increase in sales compared to Previous Year-to-Date (PTYD): $70.8M
 
-Month-to-Date (MTD) Total Sales
+* Month-to-Date (MTD) Total Sales
 
-Year-over-Year (YOY) Growth in Total Sales
+* Year-over-Year (YOY) Growth in Total Sales
 
-Difference between YTD Sales and PTYD Sales
+* Difference between YTD Sales and PTYD Sales
 
 ### Average Price Analysis:
 
-YTD Average Price: $28.0K, -0.79% decrease in average price compared to PTYD: ($0.22K)
+* YTD Average Price: $28.0K, -0.79% decrease in average price compared to PTYD: ($0.22K)
 
-MTD Average Price
+* MTD Average Price
 
-YOY Growth in Average Price
+* YOY Growth in Average Price
 
-Difference between YTD Average Price and PTYD Average Price
+* Difference between YTD Average Price and PTYD Average Price
 
 ### Cars Sold Metrics:
 
-YTD Cars Sold: 13.3K, 19.73% increase in sales compared to PTYD: 2.62K
+* YTD Cars Sold: 13.3K, 19.73% increase in sales compared to PTYD: 2.62K
 
-MTD Cars Sold
+* MTD Cars Sold
 
-YOY Growth in Cars Sold
+* YOY Growth in Cars Sold
 
-Difference between YTD Cars Sold and PTYD Cars Sold
+* Difference between YTD Cars Sold and PTYD Cars Sold
 
 ## Visualizations:
 
 ### YTD Sales Weekly Trend:
 
-A line chart displaying weekly YTD sales trends.
+* A line chart displaying weekly YTD sales trends.
 
 ### YTD Total Sales by Body Style:
 
-A pie chart showing the distribution of YTD total sales across different car body styles.
+* A pie chart showing the distribution of YTD total sales across different car body styles.
 
-SUV leads with $99.89M (26.92%).
+* SUV leads with $99.89M (26.92%).
 
 ### YTD Total Sales by Color:
 
-A pie chart presenting the contribution of various car colors to the YTD total sales.
+* A pie chart presenting the contribution of various car colors to the YTD total sales.
 
-Pale white color has the highest sales with $174.53M (47.02%).
+* Pale white color has the highest sales with $174.53M (47.02%).
 
 ### YTD Cars Sold by Dealer Region:
 
-A map chart visualizing YTD sales distribution across dealer regions.
+* A map chart visualizing YTD sales distribution across dealer regions.
 
-Austin leads with 2,296 cars sold.
+* Austin leads with 2,296 cars sold.
 
 ### Company-Wise Sales Trend:
 
-A tabular grid displaying sales trends for each company.
+* A tabular grid displaying sales trends for each company.
 
-Chevrolet has the highest cars sold YTD with 1,043 units and total sales of $27.1M (7.30%).
+* Chevrolet has the highest cars sold YTD with 1,043 units and total sales of $27.1M (7.30%).
 
 ### Details Grid:
 
-A detailed grid with all relevant information for each car sale, including model, body style, color, sales amount, dealer region, date, and more.
+* A detailed grid with all relevant information for each car sale, including model, body style, color, sales amount, dealer region, date, and more.
 
 ### Results and Insights:
 
-Developed a user-friendly interface with intuitive navigation for exploring car sales data.
+* Developed a user-friendly interface with intuitive navigation for exploring car sales data.
 
-Visualizations such as line charts, bar charts, pie charts, and maps represent key performance indicators (KPIs) like total sales, sales by region, and sales by car model.
+* Visualizations such as line charts, bar charts, pie charts, and maps represent key performance indicators (KPIs) like total sales, sales by region, and sales by car model.
 
-Enhanced understanding of sales trends, average prices, and geographical distribution, aiding in better decision-making.
+* Enhanced understanding of sales trends, average prices, and geographical distribution, aiding in better decision-making.
 
-Improved sales tracking and performance evaluation through detailed and comprehensive insights.
+* Improved sales tracking and performance evaluation through detailed and comprehensive insights.
 
-Found YTD Total Sales to be $371.2M, a 23.59% increase compared to PTYD ($70.8M).
+* Found YTD Total Sales to be $371.2M, a 23.59% increase compared to PTYD ($70.8M).
 
-Identified YTD Average Price as $28.0K, with a -0.79% decrease compared to PTYD ($0.22K).
+* Identified YTD Average Price as $28.0K, with a -0.79% decrease compared to PTYD ($0.22K).
 
-Determined YTD Cars Sold as 13.3K, with a 19.73% increase compared to PTYD (2.62K).
+* Determined YTD Cars Sold as 13.3K, with a 19.73% increase compared to PTYD (2.62K).
 
 ### Skills and Functionalities:
 
-Data Integration and ETL
+* Data Integration and ETL
 
-Data Cleaning and Preparation
+* Data Cleaning and Preparation
 
-Data Modeling and DAX Functions
+* Data Modeling and DAX Functions
 
-Power Query and Power BI Visualization
+* Power Query and Power BI Visualization
 
-KPI Creation and Analysis
+* KPI Creation and Analysis
 
-Dashboard Design and User Interface Development
+* Dashboard Design and User Interface Development
