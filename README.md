@@ -7,6 +7,7 @@ To create a dynamic, interactive dashboard that visualizes critical KPIs related
 
 ## Tools and Technologies Used:
 **Power BI:** For dashboard development and data visualization.
+
 **Excel:** For data extraction, transformation, and loading (ETL).
 
 For dashboard development and data visualization.
