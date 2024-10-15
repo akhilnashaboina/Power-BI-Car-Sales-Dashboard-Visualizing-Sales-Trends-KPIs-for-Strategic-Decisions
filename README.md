@@ -29,7 +29,7 @@ To create a dynamic, interactive dashboard that visualizes critical KPIs related
 
 * Year-to-Date (YTD) Total Sales: $371.2M
 
-* 23.59% increase in sales compared to Previous Year-to-Date (PTYD): $70.8M
+* 23.59% increase in sales compared to Previous Year-to-Date (PYTD): $70.8M
 
 * Month-to-Date (MTD) Total Sales
 
